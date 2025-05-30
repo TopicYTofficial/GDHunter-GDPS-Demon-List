@@ -26,23 +26,16 @@
     <tr>
       <th>№</th>
       <th>Название уровня</th>
+      <th>ID</th>
       <th>Автор</th>
-      <th>Сложность</th>
-      <th>Ссылка</th>
+      <th>Ссылка на видео</th>
     </tr>
     <tr>
       <td>1</td>
-      <td>Deadlocked</td>
-      <td>RobTop</td>
-      <td>10/10</td>
-      <td><a href="https://youtu.be/example" target="_blank">Видео</a></td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>Sonic Wave</td>
-      <td>Cyix</td>
-      <td>10/10</td>
-      <td><a href="https://youtu.be/example2" target="_blank">Видео</a></td>
+      <td>Ametyst</td>
+      <td>200</td>
+      <td>10</td>
+      <td><a href="https://youtube.com/shorts/ZcnRhCKgqKA?si=7v7JbfuLe5ocHplF" target="_blank">Видео</a></td>
     </tr>
   </table>
 </body>
