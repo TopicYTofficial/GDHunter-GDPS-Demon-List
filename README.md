@@ -2,50 +2,92 @@
 <html lang="ru">
 <head>
   <meta charset="UTF-8" />
-  <title>Demon List</title>
+  <title>Just a GDPS — Демонлист</title>
   <style>
-    table {
-      border-collapse: collapse;
-      width: 80%;
-      margin: 20px auto;
+    body {
+      background-color: #121212;
+      color: #eee;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
     }
-    th, td {
-      border: 1px solid #999;
-      padding: 8px 12px;
+    h1 {
       text-align: center;
-      vertical-align: middle;
+      margin-bottom: 30px;
+      font-weight: normal;
     }
-    th {
+    .list {
+      max-width: 600px;
+      margin: 0 auto;
+    }
+    .card {
+      display: flex;
+      background-color: #1e1e1e;
+      border-radius: 12px;
+      overflow: hidden;
+      margin-bottom: 15px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.5);
+      transition: background-color 0.3s;
+    }
+    .card:hover {
       background-color: #333;
-      color: white;
     }
-    img.moment {
-      max-width: 150px; /* задаёт максимальную ширину картинки */
-      height: auto;
-      border: 1px solid #ccc;
-      border-radius: 4px;
+    .card img {
+      width: 160px;
+      height: 90px;
+      object-fit: cover;
+      flex-shrink: 0;
+    }
+    .card-content {
+      padding: 10px 15px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    .card-content .title {
+      font-size: 18px;
+      font-weight: bold;
+      margin-bottom: 6px;
+    }
+    .card-content .author {
+      font-size: 14px;
+      color: #bbb;
+      margin-bottom: 4px;
+    }
+    .card-content .id {
+      font-size: 12px;
+      color: #777;
     }
   </style>
 </head>
 <body>
-  <h1 style="text-align:center;">Список сложных уровней (Demon List)</h1>
-  <table>
-    <tr>
-      <th>Топ</th>
-      <th>Название уровня</th>
-      <th>ID</th>
-      <th>Автор</th>
-      <th>Ссылка на видео</th>
-      <th>Момент из уровня</th>
-    </tr>
-    <tr>
-      <td>Топ 1</td>
-      <td>Ametyst</td>
-      <td>200</td>
-      <td>10</td>
-      <td><a href="https://youtube.com/shorts/ZcnRhCKgqKA?si=7v7JbfuLe5ocHplF" target="_blank">Видео</a></td>
-      <td><img src="moment.jpg" alt="Момент из уровня" class="moment" /></td>
-    </tr>
-  </table>
+  <h1>Just a GDPS &nbsp;&nbsp; Демонлист</h1>
+  <div class="list">
+    <div class="card">
+      <img src="https://i.imgur.com/yourimage1.jpg" alt="UnMaded" />
+      <div class="card-content">
+        <div class="title">#1 - UnMaded</div>
+        <div class="author">от royalGG</div>
+        <div class="id">id - 257</div>
+      </div>
+    </div>
+    <div class="card">
+      <img src="https://i.imgur.com/yourimage2.jpg" alt="uaua factorial" />
+      <div class="card-content">
+        <div class="title">#2 - uaua factorial</div>
+        <div class="author">от ExactZ</div>
+        <div class="id">id - 212</div>
+      </div>
+    </div>
+    <div class="card">
+      <img src="https://i.imgur.com/yourimage3.jpg" alt="amethyst challenge" />
+      <div class="card-content">
+        <div class="title">#3 - amethyst challenge</div>
+        <div class="author">от ItzMiny</div>
+        <div class="id">id - 165</div>
+      </div>
+    </div>
+    <!-- Добавляй новые карточки по такому же шаблону -->
+  </div>
 </body>
 </html>
