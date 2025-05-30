@@ -64,7 +64,7 @@
   <h1>Just a GDPS &nbsp;&nbsp; Демонлист</h1>
   <div class="list">
     <div class="card">
-      <img src="https://avatars.mds.yandex.net/i?id=c5d7145e0d049c505f7c984e05752393746e634a-12532418-images-thumbs&n=13" alt="UnMaded" />
+      <img src="https://raw.githubusercontent.com/TopicYTofficial/GDHunter-GDPS-Demon-List/refs/heads/main/avatars-000001315766-gebwwg-t500x500.jpg" />
       <div class="card-content">
         <div class="title">#1 - UnMaded</div>
         <div class="author">от royalGG</div>
