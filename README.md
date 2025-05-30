@@ -24,14 +24,14 @@
   <h1 style="text-align:center;">Список сложных уровней (Demon List)</h1>
   <table>
     <tr>
-      <th>№</th>
+      <th>Топ</th>
       <th>Название уровня</th>
       <th>ID</th>
       <th>Автор</th>
       <th>Ссылка на видео</th>
     </tr>
     <tr>
-      <td>1</td>
+      <td>Топ 1</td>
       <td>Ametyst</td>
       <td>200</td>
       <td>10</td>
