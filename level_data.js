@@ -1,6 +1,6 @@
 const levelData = [ //место в топе зависит от положения в массиве
     {
-        name: 'Amethyst Wawe',
+        name: 'Amethyst sWawe',
         author: 'Amethyst',
         id: 109
     },
