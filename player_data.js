@@ -1,8 +1,8 @@
 const playerData = [
     {
-        name: 'UnMaded',
+        name: 'Amethyst Wawe',
         veriferData: {
-            name: 'Nazorro_',
+            name: 'TOLYANCHIK',
             url: 'https://youtu.be/EqH-2yR9TVE'
         },
 
