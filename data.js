@@ -6,8 +6,8 @@ const levelData = [ //место в топе зависит от положен�
     },
 
     {
-        name: 'uaua factorial',
-        author: 'ExactZ',
+        name: 'Amethyst Wawe||',
+        author: 'Amethyst',
         id: 212
     },
 
