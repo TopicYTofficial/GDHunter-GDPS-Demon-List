@@ -3,17 +3,17 @@ const playerData = [
         name: 'Amethyst Wawe',
         veriferData: {
             name: 'TOLYANCHIK',
-            url: 'https://youtu.be/EqH-2yR9TVE'
+            url: ''
         },
 
         victorsData: []
     },
 
     {
-        name: 'uaua factorial',
+        name: 'Amethyst Wawe||',
         veriferData: {
-            name: 'ExactZ',
-            url: 'https://youtu.be/waFo78I46vg'
+            name: 'Amethyst',
+            url: ''
         },
         
         victorsData: []
